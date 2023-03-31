@@ -1,0 +1,7 @@
+ip confi -- mostra o caminho do ip roteador
+
+porta lan -- parte amarela que concta nas entradas
+
+test de ping -- ping 192.168.0.202 
+
+ipconfig /release
